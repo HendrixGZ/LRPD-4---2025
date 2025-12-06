@@ -2,7 +2,7 @@
 title: "TAREA PC1"
 format: html
 editor: visual
-autor: Maricielo Ponce
+autor: Garcia Hendrix
 ---
 
 ## TAREA FUNCIONES R Y PAQUETES
@@ -71,3 +71,4 @@ sum(diabetes$edad)
 ```{r}
 table(diabetes$glucosa_2h)
 ```
+
