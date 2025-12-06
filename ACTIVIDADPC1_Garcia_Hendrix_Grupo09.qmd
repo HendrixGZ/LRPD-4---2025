@@ -2,7 +2,7 @@
 title: "TAREA PC1"
 format: html
 editor: visual
-autor: Ponce Maricielo
+autor: Garcia Zumaeta Hendrix
 ---
 
 ```{r}
@@ -79,3 +79,4 @@ sum(diabetes$edad)
 ```{r}
 table(diabetes$glucosa_2h)
 ```
+
