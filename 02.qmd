@@ -1,6 +1,6 @@
 ---
 title: "Tipos de objetos, funciones, paquetes e importación de datos"
-author: "Kevin J. Paez"
+author: "Hendrix"
 format: html
 editor: visual
 ---
